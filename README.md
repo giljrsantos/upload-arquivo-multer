@@ -1,19 +1,19 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Upload Arquivo com Multer
 
-Nesse curso criamos o componente para login. O component de login Validação de formulários Componentizando mensagens de validação. Enviando credenciais para a API Redirecionamento pós login ViewChild: obetendo referências do template. Detectando a plataforma de execução
+Nessa mini projeto, fiz um formulário para upload de arquivos. Usando a dependencia `MULTER` e `EXPREESS`.
 
-Foi desenvolvido em Angular com o `typeScript`.
+Foi desenvolvido em `JavaScript` e para criar o fomulário, usei a `ENGINE` `EJS`.
 
 Para criar o Front-End 
 
 ### Dependência.
 
 ```
-```
-
-### Dependência de Desenvolvimento.
-
-```
+"dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1"
+}
 ```
 
 # ScreenShot
